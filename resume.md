@@ -136,6 +136,17 @@ provided a list of selected projects below.
 Seminars &amp; Talks
 --------------------
 
+* **[Shamir Knows Alice and Bob's Shared Secret](http://goo.gl/Q5ss6)**, Spring 2013
+
+    - Benjamin Franklin once wrote, "Three may keep a secret, if two
+      of them be dead." Fortunately, advances in modern cryptography
+      prevent us from having to croak the majority of our
+      acquaintances. In this talk, we discussed methods of secret
+      sharing (splitting), introduced in 1979 by Shamir and Blakely,
+      which entail the distribution of a secret to a collection of
+      constituents, of which only a sufficiently large subset may
+      reconstruct the secret.
+
 * **Programming for Aspiring Mathematicians**, Fall 2011 &mdash; Spring 2012
 
     - Gave a two-semester seminar on the fundamentals of computer
