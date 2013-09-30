@@ -8,26 +8,18 @@ My name is Thom Dixon.
 Profile
 -------
 
-* Mathematics and mathematics-related activities pique my
-  interests. Some of my other pursuits include writing code for both
-  free software projects and my own personal amusement, and practicing
-  Brazilian jiu-jitsu.
-
-Professional Interests
-----------------------
-
-* While I have a deep love and appreciation for the traditional foci
-  of pure mathematics, my passions lie in mathematics that I can play
-  with. For example, I hold (and have held for quite some time) a keen
-  interest in cryptography and computer security. The majority of my
-  open source contributions are to projects within this area. Lately I
-  have become immersed with research on peer-to-peer and cloud
-  technologies, and find both topics fascinating.
+* I am a software developer with a passion for free and open source
+  software, and a deep interest in computer security and cryptography
+  (the majority of my open source contributions are to projects within
+  this area). Some of my other pursuits outside of coding include
+  playing electric guitar and practicing Brazilian jiu-jitsu.
 
 Education
 ---------
 
 * **[University of Florida](http://ufl.edu)** 
+
+    M.S. [Computer Engineering](http://cise.ufl.edu/academics/grad/masters.shtml), Fall 2013 &mdash; Fall 2015 (expected)
 
     B.S.
      [Mathematics](https://catalog.ufl.edu/ugrad/current/liberalarts/Majors/mathematics.aspx)
@@ -35,7 +27,7 @@ Education
      Science](http://cise.ufl.edu/academics/undergrad/minor/), Spring
      2011 &mdash; Spring 2013
 
-    - Current overall GPA is 3.91, major GPA is 4.0.
+    - Graduated with a final overall GPA of 3.91.
 
 * **[Grooveshark University](http://grooveshark.com/#!/about/university)**
 
@@ -55,6 +47,14 @@ Education
 
 Industry &amp; Research Experience
 ----------------------------------
+
+* **[Ultimate Software](http://ultimatesoftware.com)**
+
+    Software Engineer, May 2013 &mdash; Present
+
+    - As a DevOps engineer on the Build and Deployment team, I develop
+      the internal tools and systems used for Ultimate's build
+      automation and SaaS delivery.
 
 * **[Advanced Computing and Information Systems Laboratory](http://acis.ufl.edu/)**
 
@@ -123,16 +123,6 @@ provided a list of selected projects below.
       enhancements to XTEA (the memoization of round keys to speed up
       encryption and decryption).
 
-* **[SuperSFV](http://www.macupdate.com/app/mac/23168/supersfv)**
-
-    Project Founder, 2007
-
-    - SuperSFV is a simple file verification program designed for Mac
-      OS Tiger and released under the GNU GPLv2. Development for this
-      application ceased when I switched to Linux, however, the source
-      remains available and has inspired some
-      [forks](https://github.com/search?q=supersfv).
-
 Seminars &amp; Talks
 --------------------
 
@@ -157,34 +147,27 @@ Seminars &amp; Talks
       résistance of introducing the elements of the [Sage mathematical
       system](http://sagemath.org).
 
-Technical Skills
-----------------
+Specialties
+-----------
 
-* **Programming**
+* **Concentration:**
+    My open source experience has given me a preference towards
+    full-stack development.
 
-    - Familiar with C, Python, TeX, LaTeX; somewhat familiar with PHP,
-      C#, Ruby, Java, Objective-C, C++, Perl, (Common) Lisp,
-      Scheme. Understanding of a wide range of paradigms, such as
-      imperative, object-oriented, functional, and algebraic, at
-      various levels of abstraction.
+* **Languages:** 
+    I am most familiar with C, Python, and JavaScript (CoffeeScript, too).
 
-* **SCM &amp; Libraries**
+* **SCM:**
+    Extensive experience with Subversion (svn) and Git (with a
+    preference towards Git).
 
-    - Experience with source-control systems such as Subversion (svn),
-      Mercurial (hg), and Git. Some experience with development
-      libraries such as GTK and Qt.
+* **Tools:**
+    Very familiar with the GNU Compiler Collection and emacs
+    text editor (though I've recently switched to Sublime Text).
 
-* **Applications**
-
-    - GNU Compiler Collection, Intel's Development Suite, Emacs,
-      Microsoft Office&reg;, and other common productivity packages
-      for Windows&reg;, Apple Mac OS X, and Linux platforms.
-
-* **Operating Systems**
-
-    - Microsoft Windows&reg; XP, Vista, &amp; 7, Apple Mac OS X
-      (Cheetah to Leopard), Linux (e.g., Gentoo, Debian,
-      Fedora). Personally, I use Debian Wheezy with Gnome 3.
+* **Operating Systems:**
+    Linux (e.g., Gentoo, Debian, Fedora). Personally, I use Debian Sid
+    with Gnome 3.
 
 Memberships
 -----------
