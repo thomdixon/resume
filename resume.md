@@ -21,6 +21,8 @@ Education
 
     M.S. [Computer Engineering](http://cise.ufl.edu/academics/grad/masters.shtml), Fall 2013 &mdash; Fall 2015 (expected)
 
+    - Currently pursuing my Masters online while working full-time. My current GPA is 4.0.
+
     B.S.
      [Mathematics](https://catalog.ufl.edu/ugrad/current/liberalarts/Majors/mathematics.aspx)
      with a minor in [Computer
@@ -49,12 +51,25 @@ Industry &amp; Research Experience
 ----------------------------------
 
 * **[Ultimate Software](http://ultimatesoftware.com)**
+    
+    Border Security Engineer, June 2014 &mdash; Present
 
-    Software Engineer, May 2013 &mdash; Present
+    - I'm currently a developer on the team responsible for creating Ultimate's
+      Security Operations Center (SOC). I write and manage software that 
+      assists in the detection and resolution of infiltration attempts.
 
-    - As a DevOps engineer on the Build and Deployment team, I develop
-      the internal tools and systems used for Ultimate's build
-      automation and SaaS delivery.
+* **[Ultimate Software](http://ultimatesoftware.com)**
+
+    Software Engineer, May 2013 &mdash; June 2014
+
+    - As a DevOps engineer on the Build and Deployment team, I developed the
+      internal tools and systems used for Ultimate's build automation and SaaS
+      delivery.
+
+    - I spearheaded the design and implementation of an administration portal
+      for our Operations teams, utilizing CoffeeScript, AngularJS, and
+      Bootstrap 3 for the front end, and RESTful services implemented in C#
+      using ASP.NET's Web API for the back end.
 
 * **[Advanced Computing and Information Systems Laboratory](http://acis.ufl.edu/)**
 
@@ -151,11 +166,12 @@ Specialties
 -----------
 
 * **Concentration:**
-    My open source experience has given me a preference towards
-    full-stack development.
+    I'm very comfortable with full-stack development, but prefer to focus in 
+    security and cryptography—from secure programming to penetration testing.
 
 * **Languages:** 
-    I am most familiar with C, Python, and JavaScript (CoffeeScript, too).
+    I am most familiar with Python, C, and JavaScript, but have experience in
+    a wide variety of languages and paradigms.
 
 * **SCM:**
     Extensive experience with Subversion (svn) and Git (with a
@@ -172,5 +188,6 @@ Specialties
 Memberships
 -----------
 
-I am associate member #9927 of the [Free Software Foundation](http://fsf.org) and a
+I am a member of the [Electronic Frontier Foundation](http://eff.org), the
+[Society for Industrial and Applied Mathematics](http://siam.org) and a
 contributing member of [Software in the Public Interest](http://www.spi-inc.org).
