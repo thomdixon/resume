@@ -21,7 +21,8 @@ Education
 
     M.S. [Computer Engineering](http://cise.ufl.edu/academics/grad/masters.shtml), Fall 2013 &mdash; Fall 2015 (expected)
 
-    - Currently pursuing my Masters online while working full-time. My current GPA is 4.0.
+    - Currently pursuing my Masters online while working full-time.
+      My current GPA is 4.0.
 
     B.S.
      [Mathematics](https://catalog.ufl.edu/ugrad/current/liberalarts/Majors/mathematics.aspx)
@@ -135,7 +136,7 @@ provided a list of selected projects below.
 
     - Provided the initial implementations of the TEA, XTEA, Salsa20,
       ISSAC and direct-key NOEKEON ciphers, as well as further
-      enhancements to XTEA (the memoization of round keys to speed up
+      enhancements to XTEA (the pre-computation of round keys to speed up
       encryption and decryption).
 
 Seminars &amp; Talks
@@ -167,7 +168,8 @@ Specialties
 
 * **Concentration:**
     I'm very comfortable with full-stack development, but prefer to focus in 
-    security and cryptography—from secure programming to penetration testing.
+    security and cryptography&mdash;from secure programming to penetration
+    testing.
 
 * **Languages:** 
     I am most familiar with Python, C, and JavaScript, but have experience in
@@ -178,12 +180,13 @@ Specialties
     preference towards Git).
 
 * **Tools:**
-    Very familiar with the GNU Compiler Collection and emacs
-    text editor (though I've recently switched to Sublime Text).
+    Very familiar with the GNU Compiler Collection and `emacs`
+    text editor (though I've recently switched to Sublime Text). I love `tmux`.
 
 * **Operating Systems:**
-    Linux (e.g., Gentoo, Debian, Fedora). Personally, I use Debian Sid
-    with Gnome 3.
+    Linux (extensive experience with Debian and its derivatives, some
+    experience with the Fedora family (including RHEL), and Gentoo). Currently
+    I run Mac OS X at home.
 
 Memberships
 -----------
