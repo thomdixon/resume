@@ -17,12 +17,7 @@ Profile
 Education
 ---------
 
-* **[University of Florida](http://ufl.edu)** 
-
-    M.S. [Computer Engineering](http://cise.ufl.edu/academics/grad/masters.shtml), Fall 2013 &mdash; Fall 2015 (expected)
-
-    - Currently pursuing my Masters online while working full-time.
-      My current GPA is 4.0.
+* **[University of Florida](http://ufl.edu)**
 
     B.S.
      [Mathematics](https://catalog.ufl.edu/ugrad/current/liberalarts/Majors/mathematics.aspx)
@@ -32,32 +27,24 @@ Education
 
     - Graduated with a final overall GPA of 3.91.
 
-* **[Grooveshark University](http://grooveshark.com/#!/about/university)**
-
-    Participant, Spring 2013
-
-    - Participated in a ten week long professional training course
-      (taught by [Prof. Dave Small](http://www.cise.ufl.edu/~dts/) of
-      the University of Florida) on the fundamentals of mobile
-      application development using the Android Jelly Bean operating
-      system.
-
-* **[Brevard Community College](http://www.brevardcc.edu)**
-
-    A.A. General Education, Summer 2011 &mdash; Fall 2010
-
-    - Final overall GPA of 3.93.
-
 Industry &amp; Research Experience
 ----------------------------------
 
 * **[Ultimate Software](http://ultimatesoftware.com)**
-    
-    Border Security Engineer, June 2014 &mdash; Present
+
+    Security Engineer, June 2014 &mdash; Present
 
     - I'm currently a developer on the team responsible for creating Ultimate's
-      Security Operations Center (SOC). I write and manage software that 
-      assists in the detection and resolution of infiltration attempts.
+      Security Operations Center (SOC). I write and manage software that assists
+      in the detection and resolution of infiltration attempts.
+
+    - Developed a plugin-based threat detection system with supporting
+      microservices (in Python, using RabbitMQ for IPC) and a corresponding web
+      front-end (with Angular).
+
+    - Designed and implemented a lightweight JWT-based authentication system and
+      corresponding middleware that provides role-based security and service
+      discovery (in Python).
 
 * **[Ultimate Software](http://ultimatesoftware.com)**
 
@@ -67,10 +54,10 @@ Industry &amp; Research Experience
       internal tools and systems used for Ultimate's build automation and SaaS
       delivery.
 
-    - I spearheaded the design and implementation of an administration portal
-      for our Operations teams, utilizing CoffeeScript, AngularJS, and
-      Bootstrap 3 for the front end, and RESTful services implemented in C#
-      using ASP.NET's Web API for the back end.
+    - I spearheaded the design and implementation of the front-end for an
+      administration portal to be used by Ultimate's operations teams (utilizing
+      CoffeeScript and Angular), and made significant modifications to the
+      RESTful services on the back-end (C# using ASP.NET's Web API).
 
 * **[Advanced Computing and Information Systems Laboratory](http://acis.ufl.edu/)**
 
@@ -95,10 +82,10 @@ Industry &amp; Research Experience
     Software Engineer Intern (TechSTAR), Summer 2012
 
     - Worked on a myriad of projects as a member of the Architecture
-      Refactoring Team, who are tasked with maintaining and improving
+      Refactoring Team, who were tasked with maintaining and improving
       both the underlying architecture and various other components of
       UltiPro, Ultimate Software's flagship enterprise Human Capital
-      Management solution. 
+      Management solution.
 
     - Utilized various languages and tools, including C#, ASP.NET,
       JavaScript, jQuery, Knockout, HTML 5 and CSS 3.
@@ -106,38 +93,10 @@ Industry &amp; Research Experience
 Open Source Experience
 ----------------------
 
-Please see my [GitHub](https://githun.com/thomdixon) for a more
-complete listing of open source projects and contributions. I have
-provided a list of selected projects below.
-
-* **[SymPy Symbolic Computation Library](http://sympy.org)**
-
-    Open Source Contributor, November 2010
-
-    - Contributed a pull request to fix a number of the problems in
-      Issue 2085, where several limits (particularly left- and
-      right-sided limits) were not being calculated correctly. Also
-      fixed a `ZeroDivisionError` when `cos(x)` was called with an
-      infinite argument.
-
-* **[dcrypt Cryptography Library](http://www.dsource.org/projects/dcrypt)**
-
-    Project Founder, August 2008 &mdash; March 2010
-
-    - Founded and maintained an open source initiative to provide a
-      standard cryptographic toolkit (focusing on symmetric
-      primitives) written entirely in the D programming language. As
-      of March 2010, a majority of dcrypt was merged into the [Tango
-      standard library](http://www.dsource.org/projects/tango).
-
-* **[Bouncy Castle Java Cryptography Extension](http://www.bouncycastle.org)**
-
-    Open Source Contributor, 2006 &mdash; 2008
-
-    - Provided the initial implementations of the TEA, XTEA, Salsa20,
-      ISSAC and direct-key NOEKEON ciphers, as well as further
-      enhancements to XTEA (the pre-computation of round keys to speed up
-      encryption and decryption).
+Please see my [GitHub](https://githun.com/thomdixon) for a current listing of
+open source projects and contributions. Some past contributions include patches to
+[Bouncy Castle](http://www.bouncycastle.org), [D's tango](http://www.dsource.org/projects/tango/browser/trunk/tango/util/cipher),
+[SymPy](https://github.com/sympy/sympy/pulls?utf8=%E2%9C%93&q=+is%3Apr+author%3Athomdixon+), [Brunch](https://github.com/brunch/brunch/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Athomdixon+), and [LimeChat](https://github.com/psychs/limechat/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Athomdixon+).
 
 Seminars &amp; Talks
 --------------------
@@ -167,21 +126,19 @@ Specialties
 -----------
 
 * **Concentration:**
-    I'm very comfortable with full-stack development, but prefer to focus in 
-    security and cryptography&mdash;from secure programming to penetration
-    testing.
+    I'm very comfortable with full-stack development, but prefer to focus on
+    backend development (particularly relating to security).
 
-* **Languages:** 
+* **Languages:**
     I am most familiar with Python, C, and JavaScript, but have experience in
     a wide variety of languages and paradigms.
 
 * **SCM:**
-    Extensive experience with Subversion (svn) and Git (with a
-    preference towards Git).
+    Extensive experience with `git`.
 
 * **Tools:**
-    Very familiar with the GNU Compiler Collection and `emacs`
-    text editor (though I've recently switched to Sublime Text). I love `tmux`.
+    Long-time `emacs` user who has recently been making the switch to `vim`.
+    Outside of the terminal, I use [Atom](http://atom.io).
 
 * **Operating Systems:**
     Linux (extensive experience with Debian and its derivatives, some
